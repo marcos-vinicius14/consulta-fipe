@@ -14,7 +14,7 @@ import {CardSearchComponent } from 'src/app/components/card-search/card-search.c
     HomeComponent,
     MenuComponent,
     CardInfoComponent,
-    CardSearchComponent
+    CardSearchComponent,
   ],
   imports: [
     CommonModule
@@ -23,7 +23,7 @@ import {CardSearchComponent } from 'src/app/components/card-search/card-search.c
     HomeComponent,
     MenuComponent,
     CardInfoComponent,
-    CardSearchComponent
+    CardSearchComponent,
   ]
 })
 export class HomeModule { }
